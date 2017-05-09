@@ -7,7 +7,7 @@ class myCarousel extends React.Component {
 
     render() {
         return (
-            <div className="carousel-wrap">
+            <div className="carousel-wrap" autoplay>
                 <Carousel autoplay>
                     <div><img src="src/images/img01.jpg" /></div>
                     <div><img src="src/images/img02.jpg" /></div>

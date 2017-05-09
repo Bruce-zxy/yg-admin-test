@@ -1,7 +1,7 @@
 {
-  "name": "webpack-app",
+  "name": "react-admin",
   "version": "1.0.0",
-  "description": "webpack app description",
+  "description": "react app description",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --devtool --progress",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ".."
+    "url": "https://github.com/bruce-zxy/yg-admin-test.git"
   },
-  "author": "luckykun",
+  "author": "bruce_zxy",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^6.4.0",

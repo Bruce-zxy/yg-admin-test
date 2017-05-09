@@ -1,12 +1,6 @@
 #基于React+Webpack+ES6+antd的独立项目
 
-
 ----------
-
-## 项目截图
-
-![](https://img.alicdn.com/tps/TB10sZlNVXXXXclXpXXXXXXXXXX-1425-673.gif)
-
 
 ## 使用方法
 
